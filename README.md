@@ -14,7 +14,7 @@ In order to use this application you will need to have node installed on your ma
 In order to use this application, once it is running you will utilize insomnia to make get, posts, puts, or deletes in order to update your e-commerce. When using the get routes you will be able to find all of a category, product, or tag as well as getting a single one by putting in the id. 
 
 
-<img src="Assets/13-orm-homework-demo-01.gif">
+<img src="Assets/ecommercedemo.webm">
 
 
 ## Credits
